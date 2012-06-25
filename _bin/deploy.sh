@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo 'We do not use this repository anymore.'
+exit 1
+
+
 BIN=`dirname "$0"`
 SRC="$BIN/../_site"
 
